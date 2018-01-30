@@ -44,9 +44,22 @@ bower install reset.css --save
 Quick start
 -------
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
+
+```
 <link rel="stylesheet" href=".bower_components/reset/reset.css">
+```
+or
+```
 <link rel="stylesheet" href=".bower_components/reset/reset.min.css">
+```
+or
+```
 <link rel="stylesheet" href="url">
+```
+or
+```
+<link rel="stylesheet" href="url">
+```
 
 <br/>
 
