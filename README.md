@@ -54,11 +54,11 @@ or
 ```
 or
 ```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/KimSunWook/reset.css/v1.0.2/reset.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/KimSunWook/reset.css/master/reset.css">
 ```
 or
 ```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/KimSunWook/reset.css/v1.0.2/reset.min.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/KimSunWook/reset.css/master/reset.min.css">
 ```
 
 <br/>
