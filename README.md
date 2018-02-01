@@ -46,11 +46,11 @@ Quick start
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
 
 ```
-<link rel="stylesheet" href=".bower_components/reset/reset.css">
+<link rel="stylesheet" href=".bower_components/reset.css/reset.css">
 ```
 or
 ```
-<link rel="stylesheet" href=".bower_components/reset/reset.min.css">
+<link rel="stylesheet" href=".bower_components/reset.css/reset.min.css">
 ```
 or
 ```
