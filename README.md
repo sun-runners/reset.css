@@ -43,7 +43,7 @@ bower install reset.css --save
 
 Quick start
 -------
-Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
+Copy-paste the stylesheet ```<link>``` into your ```<head>``` before all other stylesheets to load our CSS.
 
 ```
 <link rel="stylesheet" href=".bower_components/reset.css/reset.css">
