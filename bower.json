@@ -2,7 +2,9 @@
   "name": "reset.css",
   "version": "1.0.3",
   "homepage": "https://github.com/KimSunWook/reset.css",
-  "main": "reset.css",
+  "main": [
+    "reset.css"
+  ],
   "authors": [
     "Kim Sun Wook <sunus7@naver.com>"
   ],
