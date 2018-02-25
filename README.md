@@ -50,7 +50,7 @@ Copy-paste the stylesheet ```<link>``` into your ```<head>``` before all other s
 ```
 or
 ```
-<link rel="stylesheet" href="https://cdn.rawgit.com/KimSunWook/reset.css/v1.1.2/reset.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/KimSunWook/reset.css/v1.1.3/reset.css">
 ```
 
 <br/>
