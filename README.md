@@ -50,15 +50,7 @@ Copy-paste the stylesheet ```<link>``` into your ```<head>``` before all other s
 ```
 or
 ```
-<link rel="stylesheet" href=".bower_components/reset.css/reset.min.css">
-```
-or
-```
-<link rel="stylesheet" href="https://cdn.rawgit.com/KimSunWook/reset.css/v1.0.3/reset.css">
-```
-or
-```
-<link rel="stylesheet" href="https://cdn.rawgit.com/KimSunWook/reset.css/v1.0.3/reset.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/KimSunWook/reset.css/v1.1.2/reset.css">
 ```
 
 <br/>
